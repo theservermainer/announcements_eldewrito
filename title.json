@@ -1,0 +1,11 @@
+{
+  "announcements":[
+    {
+      "date": "7.1.2019",
+      "title": "Project Restoration",
+      "subtitle": "Greetings, Spartan!",
+      "content": "Welcome to your brand new Halo experience! To make sure you're settled, we're going to go through the training session 'Multiplayer.' You can come back at anytime. Anyways, enjoy your experience!",
+      "background": "dew://assets/announcements/welcome_02.jpg" 
+    }
+  ]
+}
